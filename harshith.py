@@ -10,4 +10,4 @@ with col1:
 with col2:
   st.subheader("hero")
   st.image("./prabha.jpeg", caption="Ragdoll Cat", width=300,use_column_width=True)
-  st.write("Ragdoll cats are proud")
+  st.write("hero are proud")
